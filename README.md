@@ -3,7 +3,7 @@
 - 👀 Tenho interesse em programação e aprender coisas novas.
 - 🌱 Atualmente, estou aprendendo GIT e GITHUB, além de algumas técnicas para estudar e aprender de forma mais eficaz.
 
-![Estatísticas do GitHub de Dom Ponroot](https://github-readme-stats.vercel.app/api?username=domponroot&show_icons=true)
+![Estatísticas do GitHub de Dom Ponroot](https://github-readme-stats.vercel.app/api?username=domponroot&show_icons=true&theme=dark)
 
 **Bem-vindo ao meu perfil no GitHub!** Sou apaixonado por explorar o mundo da programação e expandir constantemente meu conhecimento. Estou especialmente focado em aprimorar minhas habilidades em controle de versão usando Git e GitHub. Além disso, estou sempre em busca de maneiras melhores de estudar e aprender.
 
