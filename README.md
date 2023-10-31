@@ -9,6 +9,13 @@
 
 Sinta-se à vontade para explorar meus repositórios e projetos. Se tiver sugestões, perguntas ou simplesmente quiser se conectar, não hesite em entrar em contato. Vamos aprender e crescer juntos!
 
+## Contato
+Se tiver dúvidas, sugestões ou quiser compartilhar conhecimento, sinta-se à vontade para entrar em contato:
+
+- Nome: Mauricio de Macedo 
+- Email: dominicoponos@disroot.org
+
+
 <!---
 domponroot/domponroot é um repositório ✨ especial ✨, pois o `README.md` (este arquivo) aparece no seu perfil do GitHub.
 Você pode clicar no link "Visualizar" para ver suas alterações.
